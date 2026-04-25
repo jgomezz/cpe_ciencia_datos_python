@@ -1,2 +1,2 @@
-# Modulo 2 : Estadistica y Visualizacion de Datos con Python
+# Módulo 2 : Estadística y Visualización de Datos con Python
 
